@@ -1,4 +1,4 @@
-# Recomendações
+# REST
 Requisitos:
 
 - A API deve ser REST
